@@ -1,4 +1,4 @@
-# 🏥 Health Insurance Charges Analysis & Prediction
+# 🏥 Insurance Charges Analysis & Prediction
 
 This project explores and analyzes health insurance data to understand the factors influencing **medical insurance charges**. It includes detailed **data analysis, visualization, and statistical testing** using Python.
 
